@@ -57,8 +57,10 @@ Make it part of the acceptance criteria for every user story written to fix an i
 
 If you want to use it to answer questions to recurring issues, use the "frequently asked questions" format.
 
-If you want to use it to increase speed of resolution, build it as a [runbook](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.concept.runbook.en.html).
+If you want to use it to increase consistency and speed of resolution, build it as a [runbook](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.concept.runbook.en.html).
 
-If you want to use it to increase team awareness and speed of resolution, build it as a [playbook](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.concept.playbook.en.html).
+If you want to use it to increase team awareness, build it as a [playbook](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.concept.playbook.en.html).
 
-Simulate incidents, as an exercise, if the component is high risk/value.
+If the component is high risk/value, you can simulate incidents in a similar format to a [disaster role playing](https://sre.google/sre-book/accelerating-sre-on-call/#xref_training_disaster-rpg) exercise. You can capture the steps of your rehearsal into a [template](https://docs.google.com/document/d/1UWcKUSKnyv8DVX1FUSYy0UOt72u6WLDqLqHg9lqeyro/edit), from which information can be later fed into your main documentation.
+
+Feel free to [adapt](https://technology.blog.gov.uk/2021/03/04/wheel-of-misfortune-incident-rehearsal-for-gov-uk-paas/) the exercise to your needs. Do what matters to you and your team.
