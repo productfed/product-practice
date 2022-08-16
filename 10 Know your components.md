@@ -55,7 +55,7 @@ Put it together incrementally, step by step.
 Make it so all the developers in your team contribute to it.
 Make it part of the acceptance criteria for every user story written to fix an issue with the component.
 
-If you want to use it to answer questions to recurring issues, use an internal document format.
+If you want to use it to answer questions to recurring issues, use an [internal document](https://en.wikipedia.org/wiki/Internal_documentation) format.
 
 If you want to use it to increase consistency and speed of resolution, build it as a [runbook](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.concept.runbook.en.html).
 
