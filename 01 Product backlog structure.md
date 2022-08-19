@@ -15,7 +15,7 @@ It does not enjoy the same level of dynamism of a sprint backlog, or a kanban bo
 
 To maximise its efficiency, you need to structure it well.
 
-Here below are six points that you can consider, to make it so iits structure is solid and functional to your needs.
+Here below are six points that you can consider, to make it so its structure is solid and functional to your needs.
 
 
 #### 1. Be consistent
