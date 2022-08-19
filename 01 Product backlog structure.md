@@ -18,7 +18,7 @@ To maximise its efficiency, you need to structure it well.
 Here below are six points that you can consider, to make it so iits structure is solid and functional to your needs.
 
 
-##### 1. Be consistent
+#### 1. Be consistent
 
 Apply consistency throughout the backlog.
 
