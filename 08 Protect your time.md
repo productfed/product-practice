@@ -82,7 +82,7 @@ Test it, see if it works, see if you are missing out. Often, it is exactly that 
 If you want to read more about this technique, you can find some useful extra information at the following links:
   - [Best practices for focus time](https://docs.microsoft.com/en-us/viva/insights/tutorials/gm-focus)
   - [How to make it work for you](https://www.intelligentchange.com/blogs/read/focus-time-technique)
-  - [What is Focus Time and how does it impact productivity](https://www.getclockwise.com/blog/what-is-focus-time)
+  - [What is Focus Time and how does it impact productivity](https://www.getclockwise.com/blog/what-is-focus-time), from [Alyssa Towns](https://www.wordswithalyssa.com/)
 
 
 #### 7. Pomodoro technique
@@ -94,7 +94,7 @@ If you want to read more about this technique, you can find some useful extra in
   - doesn't require planning your tasks
 
 If you want to read more about this technique, you can find some useful extra information at the following links:
-  - [Testing the technique](https://www.themuse.com/advice/take-it-from-someone-who-hates-productivity-hacksthe-pomodoro-technique-actually-works#:~:text=What%20Is%20the%20Pomodoro%20Technique,are%20referred%20to%20as%20pomodoros.)
+  - [Testing the technique](https://www.themuse.com/advice/take-it-from-someone-who-hates-productivity-hacksthe-pomodoro-technique-actually-works#:~:text=What%20Is%20the%20Pomodoro%20Technique,are%20referred%20to%20as%20pomodoros.), from [Kat Boogaard](https://www.linkedin.com/in/katboogaard/)
   - [Wikipedia article](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 
 
