@@ -77,7 +77,7 @@ For internet resources about product backlogs, I have found the following pages 
 
 Disclaimer: you may not be able to apply some of the suggestions contained within these articles, depending on your circumstances. Good news: it is not a problem. Just keep them in mind, be self critical and disregard them if they are of no use to you or your team.
 
-- [Best practices for backlog grooming](https://www.prodpad.com/blog/how-to-groom-a-product-backlog/#h2-best-practices-for-backlog-grooming:~:text=Best%20practices%20for%20backlog%20grooming)
+- [Best practices for backlog grooming](https://www.prodpad.com/blog/how-to-groom-a-product-backlog/#h2-best-practices-for-backlog-grooming:~:text=Best%20practices%20for%20backlog%20grooming), from [Janna Bastow](https://uk.linkedin.com/in/jannabastow)
 - [Product backlog management: 10 tips for optimization](https://280group.com/product-management-blog/product-backlog-management-product-managers/#h2-Product%20Backlog%20Management:%2010%20Tips%20for%20Optimization:~:text=Product%20Backlog%20Management%3A%2010%20Tips%20for%20Optimization)
-- [The product backlog: your ultimate to-do list](https://www.atlassian.com/agile/scrum/backlogs)
+- [The product backlog: your ultimate to-do list](https://www.atlassian.com/agile/scrum/backlogs), from [Dan Radigan](https://www.linkedin.com/in/danradigan/)
 - **Only for JIRA users**: [using your Scrum backlog](https://confluence.atlassian.com/jirasoftwareserver0817/using-your-scrum-backlog-1072472265.html)
