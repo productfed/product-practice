@@ -1,5 +1,3 @@
-# DRAFT
-
 There are plenty of resources available on books and the internet, on what is an epic.
 
 For the purpose of this page, I will not get into the various definitions and critique.
