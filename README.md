@@ -1,4 +1,5 @@
 # product-practice
+
 A list of suggestions for how to improve certain aspects of the product practice.
 
 - 01: How to better structure the Product backlog
@@ -13,6 +14,7 @@ A list of suggestions for how to improve certain aspects of the product practice
 - 10: How to improve the components’ responsibility awareness and how to ease the chain of support
 
 ## Why this exists and what to do with it
+
 I have created this list to support pairing activities with Product Managers/Owners.
 
 The above list is not meant to be exhaustive.
