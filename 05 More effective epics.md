@@ -1,5 +1,3 @@
-# DRAFT
-
 The elements contained within this page are useful to make existing epics more effective.
 
 However, keep them into consideration when you create new epics as well.
