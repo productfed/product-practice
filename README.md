@@ -6,7 +6,7 @@ A list of suggestions for how to improve certain aspects of the product practice
 - 03: How to help the team with the fact that there are too many different topics in one sprint, and when a pair works on a single topic, it’s hard for the other team members to keep up with what’s happening and why
 - 04: How to deal with long running epics, having 4 or 5 epics in different topics, and what to do when they need to run in parallel
 - 05: How to better express a definition of done for epics, while improving the way we define end goals
-- 06: How to shape epics in a better way within your tools
+- 06: How to arrange epics in a better way within your tools
 - 07: How to improve confidence for teams, to be able to push back or delay according to priorities (more freedom in less high-level items)
 - 08: How to better protect your valuable time
 - 09: How to improve the awareness around business relevance and kind of customers the team is helping with their valuable work
