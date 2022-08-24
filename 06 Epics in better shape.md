@@ -1,4 +1,4 @@
-This page is only intended to provide one more element of discussion, to the [previous session](https://github.com/productfed/product-practice/blob/main/05%20More%20effective%20epics.md).
+This page provides one more element of discussion, to the [previous session](https://github.com/productfed/product-practice/blob/main/05%20More%20effective%20epics.md).
 
 ##
 
