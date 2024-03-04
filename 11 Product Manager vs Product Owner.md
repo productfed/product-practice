@@ -1,4 +1,4 @@
-DISCLAIMER: article originally published on December 2, 2022, for a third party blog, with the essential contributions of [Charles Humble](https://github.com/CHHUM)
+DISCLAIMER: article originally published on December 2, 2022, for a [third party blog](https://blog.container-solutions.com/oh-so-you-are-a-product-owner-then), with the essential contributions of [Charles Humble](https://github.com/CHHUM)
 
 
 **Oh, So You Are a Product Owner Then?!**
