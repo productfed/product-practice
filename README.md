@@ -12,6 +12,7 @@ A list of suggestions for how to improve certain aspects of the product practice
 - 08: How to better protect your valuable time
 - 09: How to improve the awareness around business relevance and kind of customers the team is helping with their valuable work
 - 10: How to improve the components’ responsibility awareness and how to ease the chain of support
+- 11: How to identify difference and similarities between the Product Manager and the Product Owner roles.
 
 ## Why this exists and what to do with it
 
